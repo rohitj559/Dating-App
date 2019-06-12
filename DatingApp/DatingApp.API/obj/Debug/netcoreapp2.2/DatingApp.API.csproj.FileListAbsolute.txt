@@ -1,0 +1,14 @@
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\rohit\interview-prep\udemy\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
