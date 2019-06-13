@@ -1,0 +1,12 @@
+06/12/2019
+
+Got into an issue when trying to run `dotnet ef database update`. 
+Issue: `Microsoft.EntityFrameworkCore.Sqlite.Core` package was installed 
+due to which there were dependency issues. So, installed parent package - 
+`Microsoft.EntityFrameworkCore.Sqlite` to resolve dependencies.
+
+Solution online: 
+https://stackoverflow.com/questions/50746465/how-do-i-call-sqlitepcl-batteries-init
+Solution on Udemy:
+https://www.udemy.com/build-an-app-with-aspnet-core-and-angular-from-scratch/learn/lecture/8706462#questions/6315826
+
